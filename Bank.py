@@ -9,6 +9,7 @@ time = now.strftime("%H:%M:%S")
 print("Welcome to SB1")
 
 print('Insert your ATM Card')
+print()
 
 inserted= int(input('1 Yes, 2 No:'))
 
